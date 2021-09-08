@@ -1,2 +1,5 @@
 *.ipynb
 *.csv
+*.DS_Store
+*ipynb_check*
+MLOps.ipynb
